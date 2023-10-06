@@ -43,7 +43,6 @@ The script takes two input:
 
 The main idea is to **periodically** run the script to obtain latest reviews: the scraper stores them in MongoDB up to get either the latest review of previous run or the day indicated in the input parameter.
 
-Take a look to this [Medium post](https://medium.com/@mattiagasparini2/monitoring-of-google-maps-reviews-29e5d35f9d17) to have more details about the idea behind this feature.
 
 ## Notes
 Url must be provided as expected, you can check the example file urls.txt to have an idea of what is a correct url.
